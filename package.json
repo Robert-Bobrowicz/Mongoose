@@ -1,0 +1,14 @@
+{
+  "name": "node_ex6.9.mongodb",
+  "version": "1.0.0",
+  "description": "sample exercise - MongoDB (mongoose)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RB_Me",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.10.0"
+  }
+}
